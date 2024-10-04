@@ -47,3 +47,10 @@ url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12
                 height: 3rem;
                 margin-top: 2rem;
             }
+            .graficos-container {
+                margin: 5rem;
+                }
+                .graficos-container__texto {
+                    font-size: 1.3rem;
+                    text-align: center;
+                    }
